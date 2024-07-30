@@ -9,3 +9,10 @@ function Home() {
     </div>
   );
 }
+
+export default Home;
+
+const { username, city } = require("../data/user");
+
+
+
